@@ -1,0 +1,54 @@
+.container{
+    width:80%;
+    border-radius:100px;
+    border:1px solid black;
+    height:1000px;
+    margin:0 auto;
+  }
+  .header{
+    width:80%;
+    border:1px solid black;
+    margin:20px auto;
+    height: 200px;
+    margin-bottom: 0;
+  }
+  .navbar{
+    width:80%;
+    border:1px solid black;
+    margin: -1px auto;
+    height: 150px;
+  }
+  .content{
+    width:80.1%;
+    display:flex;
+    margin: -1px auto;
+    height: 400px;
+  }
+  .col{
+    flex-direction: column;
+    width:60%;
+  }
+  .section{
+    border:1px solid black;
+    flex:2;
+    height:200px;
+    
+  }
+  .article{
+    border:1px solid black;
+    flex:2;
+    height:200px;
+    margin:-1px 0;
+  }
+  .aside{
+    border:1px solid black;
+    flex:1;
+    height:401px;
+  }
+  .footer{
+    width:80%;
+    height:150px;
+    border:1px solid black;
+    margin: 3px auto;
+  }
+  
